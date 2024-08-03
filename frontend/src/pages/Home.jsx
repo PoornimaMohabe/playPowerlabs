@@ -93,7 +93,7 @@ function Home() {
                     </div>
 
                     <div className='Navbar_inner_second mt-2 md:mt-0'>
-                        <input type="date" className='p-2 text-black border rounded dark:bg-gray-700 dark:border-gray-600' />
+                    <img  className='btn border-none p-2 text-white rounded hover:bg-purple-200' src="https://cdn-icons-png.flaticon.com/128/11320/11320235.png" alt="" />
                     </div>
 
                     <div className='Navbar_inner_third flex gap-2 mt-2 md:mt-0'>
