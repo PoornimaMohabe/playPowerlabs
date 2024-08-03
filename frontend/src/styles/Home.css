@@ -1,0 +1,40 @@
+
+
+.navbarMain{
+    margin: auto;
+    width: 60%;
+    background-color: rgb(244, 229, 255);
+    padding: 0px  10px;
+    color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    box-sizing: border-box;
+    flex-wrap: wrap;
+  
+    
+  
+}
+
+
+.Navbar_inner_third{
+    display: flex;
+    gap: 5px; 
+}
+
+.btn{
+    height: 40px;
+    width: 40px;
+    border: 1px solid;
+}
+.seleteInput{
+    width: 400px;
+    background-color: rgb(252, 248, 243);
+    border-radius:10px ;
+}
+
+
+.Home_main{
+    width: 60%;
+    margin: auto;
+}
